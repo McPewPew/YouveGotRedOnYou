@@ -9,7 +9,7 @@ WMPVP:SetScript("OnEvent", function()
                UIErrorsFrame:AddMessage(wrmpvpmsg, 1.0, 0.0, 0.0, 53, 5)
 			   PlaySoundFile("Sound/Character/Gnome/GnomeVocalMale/GnomeMaleNo03.wav")
             end
-		 elseif  UnitIsFriend("player", "target") then
+		 elseif  not UnitIsFriend("player", "target") then
 		    trgtisscry = UnitClassification("target")
 			if trgtisscry == "worldboss" or trgtisscry == "rareelite" or trgtisscry == "elite" then
 				wrmpvpmsg = (UnitName("target") .. " is " .. trgtisscry .."!")
