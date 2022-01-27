@@ -1,0 +1,11 @@
+## Interface: 11200
+
+## Title: |cFFFFFF|You'veGot|cffff00002|Red|cFFFFFF|OnYou
+## Notes: Don't catch their PVPness (Warns if target is flagged)
+## Author: McPewPew
+## Version: 1.0
+## X-Website: https://github.com/McPewPew/YouveGotRedOnYou
+## X-Date 2021-02-27
+## X-Category: Buffs
+
+YouveGotRedOnYou.lua
