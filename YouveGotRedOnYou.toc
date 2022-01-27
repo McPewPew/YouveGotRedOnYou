@@ -1,6 +1,6 @@
 ## Interface: 11200
 
-## Title: |cFFFFFF|You'veGot|cffff00002|Red|cFFFFFF|OnYou
+## Title: You've got |cffff0000red|r on you!
 ## Notes: Don't catch their PVPness (Warns if target is flagged)
 ## Author: McPewPew
 ## Version: 1.0

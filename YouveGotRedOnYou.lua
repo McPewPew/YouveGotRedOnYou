@@ -2,7 +2,7 @@ WMPVP = CreateFrame("Frame", nil, nil)
 WMPVP:RegisterEvent("PLAYER_TARGET_CHANGED")
 
 WMPVP:SetScript("OnEvent", function()
-      if not isInstance() then
+      if not IsInInstance() then
          if UnitIsPlayer("target") then
             if UnitIsPVP("target") then
                wrmpvpmsg = (UnitName("target") .. "is PVP flagged!")
