@@ -6,7 +6,7 @@ Sometimes you'll want to buff them anyway, other times when there are Warmode pl
 
 As an added bonus it'll also alert you if you target an elite unfriendly NPC.
 
-![screenshot](https://user-images.githubusercontent.com/98543024/151659912-4e789821-2e00-4aa1-b7d6-44ce3cce4f71.jpg)
+![screenshot](https://user-images.githubusercontent.com/98543024/151660110-12603778-fac5-4fbc-b90a-f2653ea5b474.jpg)
 
 ## Instructions
 1. Download **[Latest Version](https://github.com/McPewPew/YouveGotRedOnYou/archive/master.zip)**
