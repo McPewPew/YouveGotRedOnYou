@@ -11,4 +11,4 @@ As an added bonus it'll also alert you if you target an elite unfriendly NPC.
 ## Instructions
 1. Download **[Latest Version](https://github.com/McPewPew/YouveGotRedOnYou/archive/master.zip)**
 2. Unzip it into Wow\Interface\AddOns
-3. Rename "YouveGotRedOnYou-master" to "YouveGotRedOnYou"
+3. Rename "YouveGotRedOnYou-main" to "YouveGotRedOnYou"
